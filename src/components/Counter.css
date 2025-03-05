@@ -1,0 +1,23 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.count-number {
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 0.7rem;
+    font-size: 4rem;
+    font-weight: bold;
+    min-width: 80px;
+    text-align: center;
+}
+
+.count-title {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #1e2f3f;
+}
